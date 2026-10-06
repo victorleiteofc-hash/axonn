@@ -1,0 +1,109 @@
+﻿{
+    "version":  1,
+    "skills":  {
+                   "mobile-native":  {
+                                         "sourceType":  "github",
+                                         "source":  "emilkowalski/skill"
+                                     },
+                   "find-animation-opportunities":  {
+                                                        "sourceType":  "github",
+                                                        "source":  "emilkowalski/skill"
+                                                    },
+                   "animation-vocabulary":  {
+                                                "sourceType":  "github",
+                                                "source":  "emilkowalski/skill"
+                                            },
+                   "animate":  {
+                                   "sourceType":  "github",
+                                   "source":  "emilkowalski/skill"
+                               },
+                   "ask-sonner":  {
+                                      "sourceType":  "github",
+                                      "source":  "emilkowalski/skill"
+                                  },
+                   "apple-design":  {
+                                        "sourceType":  "github",
+                                        "source":  "emilkowalski/skill"
+                                    },
+                   "review-animations":  {
+                                             "sourceType":  "github",
+                                             "source":  "emilkowalski/skill"
+                                         },
+                   "prototype":  {
+                                     "sourceType":  "github",
+                                     "source":  "emilkowalski/skill"
+                                 },
+                   "write-swift":  {
+                                       "sourceType":  "github",
+                                       "source":  "emilkowalski/skill"
+                                   },
+                   "improve-animations":  {
+                                              "sourceType":  "github",
+                                              "source":  "emilkowalski/skill"
+                                          },
+                   "animate-expo":  {
+                                        "sourceType":  "github",
+                                        "source":  "emilkowalski/skill"
+                                    },
+                   "pick-ui-library":  {
+                                           "sourceType":  "github",
+                                           "source":  "emilkowalski/skill"
+                                       },
+                   "emil-design-eng":  {
+                                           "sourceType":  "github",
+                                           "source":  "emilkowalski/skill"
+                                       },
+                   "brandkit":  {
+                                    "sourceType":  "github",
+                                    "source":  "Leonxlnx/taste-skill"
+                                },
+                   "brutalist-skill":  {
+                                           "sourceType":  "github",
+                                           "source":  "Leonxlnx/taste-skill"
+                                       },
+                   "gpt-tasteskill":  {
+                                          "sourceType":  "github",
+                                          "source":  "Leonxlnx/taste-skill"
+                                      },
+                   "image-to-code-skill":  {
+                                               "sourceType":  "github",
+                                               "source":  "Leonxlnx/taste-skill"
+                                           },
+                   "imagegen-frontend-mobile":  {
+                                                    "sourceType":  "github",
+                                                    "source":  "Leonxlnx/taste-skill"
+                                                },
+                   "imagegen-frontend-web":  {
+                                                 "sourceType":  "github",
+                                                 "source":  "Leonxlnx/taste-skill"
+                                             },
+                   "minimalist-skill":  {
+                                            "sourceType":  "github",
+                                            "source":  "Leonxlnx/taste-skill"
+                                        },
+                   "output-skill":  {
+                                        "sourceType":  "github",
+                                        "source":  "Leonxlnx/taste-skill"
+                                    },
+                   "redesign-skill":  {
+                                          "sourceType":  "github",
+                                          "source":  "Leonxlnx/taste-skill"
+                                      },
+                   "soft-skill":  {
+                                      "sourceType":  "github",
+                                      "source":  "Leonxlnx/taste-skill"
+                                  },
+                   "stitch-skill":  {
+                                        "sourceType":  "github",
+                                        "source":  "Leonxlnx/taste-skill"
+                                    },
+                   "taste-skill":  {
+                                       "sourceType":  "github",
+                                       "source":  "Leonxlnx/taste-skill"
+                                   },
+                   "taste-skill-v1":  {
+                                          "sourceType":  "github",
+                                          "source":  "Leonxlnx/taste-skill"
+                                      }
+               }
+}

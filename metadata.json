@@ -1,0 +1,6 @@
+{
+  "name": "Axon Skin",
+  "description": "Website oficial e landing page científica da Axon Skin. Fusão entre laboratório clínico e sofisticação premium (Lab Luxe), apresentando biblioteca de ativos e analisador de fórmulas com inteligência de evidência científica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
